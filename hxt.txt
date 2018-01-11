@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("hxt.....\r\n");
+	return 0;
+}
