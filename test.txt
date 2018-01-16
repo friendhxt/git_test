@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 errrrrrrr
 =======
@@ -5,3 +6,7 @@ mas+e
 bxsh dev
 caonima
 >>>>>>> dev
+=======
+master
+dev caonima 
+>>>>>>> Stashed changes
